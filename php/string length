@@ -1,0 +1,10 @@
+
+<?php
+$str1 = 'Hello';
+echo strlen($str1);
+echo "<br>";
+ 
+$str2 = 'world';
+echo strlen($str2);
+?>
+//output 5 5
